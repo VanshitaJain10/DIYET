@@ -8,10 +8,10 @@ const About = () => {
 					<div className="text-white text-center md:pt-14 px-2 md:px-52 flex items-center flex-col h-screen md:h-fit md:text-start justify-center md:items-start md:flex-col gap-y-2 font-Playfair ">
 						<div className="text-white  text-7xl font-extrabold">About Us</div>
 						<div className="py-6 md:py-0">
-							Welcome to Your Diet Planner, your personal guide to a healthier
-							lifestyle! 🌿🥗 Whether you're aiming to lose weight, build muscle
-							, or improve overall well-being, our smart planning tool is here
-							to guide you.
+							Welcome to DIYET, your personal guide to a healthier lifestyle!
+							🌿🥗 Whether you're aiming to lose weight, build muscle , or
+							improve overall well-being, our smart planning tool is here to
+							guide you.
 						</div>
 						<div>
 							Powered by Gemini AI, we provide tailored meal recommendations
